@@ -44,8 +44,8 @@ config.action_mailer.smtp_settings = {
   :port => 587,
   :domain => "gmail.com",
   :authentication => :login,
-  :user_name => 'matluuly20002001@gmail.com',
-  :password => '11011989',
+  :user_name => 'kaoriapp106@gmail.com',
+  :password => '1234qwerX!',
 }
 
   # Print deprecation notices to the Rails logger.
